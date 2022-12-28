@@ -1,6 +1,6 @@
 👩Ooii! Eu sou a kauane Fregnnan.
 
-👩‍💻Estou iniciando os estudos em programação.
+👩‍💻 Estudante de programação na Rocketseat 
 
 
 <div align="center">
